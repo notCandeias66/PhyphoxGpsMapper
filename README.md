@@ -85,10 +85,10 @@ Each segment between two GPS points is split into `SUBDIVISIONS` pieces. Each pi
 
 ---
 
-### 2. Install
+### 2. Install (Not tested!)
 
 ```bash
-git clone https://github.com/<your-username>/PhyphoxGpsMapper.git
+git clone https://github.com/notCandeias66/PhyphoxGpsMapper.git
 cd phyphox-gps-mapper
 
 python -m venv .venv
